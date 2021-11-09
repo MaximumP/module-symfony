@@ -16,6 +16,7 @@ trait ParameterAssertionsTrait
      * $I->grabParameter('app.business_name');
      * ```
      *
+     * @part services
      * @param string $name
      * @return mixed|null
      */
